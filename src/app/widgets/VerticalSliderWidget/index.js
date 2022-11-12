@@ -1,0 +1,1 @@
+export { VerticalSliderWidget } from './VerticalSliderWidget';
