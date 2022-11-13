@@ -9,12 +9,17 @@ This project is currently showcasing two widgets using React JS.
 
 This widget displays a circular progress bar along with a range input slider, you can update the progress on changing
 range input and also by updating the progress text displayed inside the circle.
-The range input and the progress bar will always be in sync on every update.
+The range input and the progress bar will always be in sync on every update. 
+
+![image](https://user-images.githubusercontent.com/97888504/201516361-7e0fe8b8-f367-4194-921c-071536b3e743.png)
+
 
 #### Vertical Slider Bar widget
 
 This widget displays a set of rectangular bars cropped under an inverted triangle. On click of the bar it displays the
 value and lighten up the other bars displaying the progress. This widget has some cool hover effects.
+
+![image](https://user-images.githubusercontent.com/97888504/201516295-66469581-0450-407f-a055-d76eed4bb42b.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -23,19 +28,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Node.js](https://nodejs.org/) v14+ to run.
 
 Clone the project or download zip file.
-
-[//]: # (TODO: Update the github url)
-
-```sh
-git clone https://github.com/mohitsaladiya
-```
-
-Run the following commands to get the latest code -
-
-```sh
-git checkout develop
-git pull
-```
 
 #### Install Dev dependencies
 
