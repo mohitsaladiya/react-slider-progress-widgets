@@ -9,7 +9,9 @@ This project is currently showcasing two widgets using React JS.
 
 This widget displays a circular progress bar along with a range input slider, you can update the progress on changing
 range input and also by updating the progress text displayed inside the circle.
-The range input and the progress bar will always be in sync on every update. ![image](https://user-images.githubusercontent.com/97888504/201516244-4571a863-c709-47d7-85a4-d3a360f0f204.png)
+The range input and the progress bar will always be in sync on every update. 
+
+![image](https://user-images.githubusercontent.com/97888504/201516361-7e0fe8b8-f367-4194-921c-071536b3e743.png)
 
 
 #### Vertical Slider Bar widget
